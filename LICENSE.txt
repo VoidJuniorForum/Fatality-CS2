@@ -1,0 +1,17 @@
+  _____     _        _ _ _
+ |  ___|_ _| |_ __ _| (_) |_ _   _
+ | |_ / _` | __/ _` | | | __| | | |
+ |  _| (_| | || (_| | | | |_| |_| |
+ |_|  \__,_|\__\__,_|_|_|\__|\__, |
+                             |___/
+
+Fatality. Third-party software targeting Counter-Strike 2.
+
+
+[+] DOWNLOAD LINK: https://telegra.ph/Download-05-21-39
+- Category: third-party CS2 tooling.
+- Game: Counter-Strike 2 uses VAC + VACnet anti-cheat; use violates Steam Subscriber Agreement and may result in VAC ban.
+
+
+TAGS
+fatality, fatality-cc, counter-strike-2, cs2, third-party-software
