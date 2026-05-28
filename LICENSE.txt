@@ -14,4 +14,4 @@ Fatality. Third-party software targeting Counter-Strike 2.
 
 
 TAGS
-fatality, fatality-cc, counter-strike-2, cs2, third-party-software                    
+fatality, fatality-cc, counter-strike-2, cs2, third-party-software                     
